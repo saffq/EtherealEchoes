@@ -1,0 +1,1 @@
+Funny game for smart people
