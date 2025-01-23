@@ -1,1 +1,1 @@
-pygame
+Panda3D~=1.10.15
